@@ -1,6 +1,6 @@
 # Policy Attestation Tracker — Network Links
 
-Track policy attestations, exceptions and renewal evidence.
+Track who acknowledged which policy, with reminders and audit evidence.
 
 ## Live
 - App: https://ziontechgroup.com/policy-attestation-tracker/
